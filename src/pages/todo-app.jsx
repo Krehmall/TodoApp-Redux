@@ -15,6 +15,7 @@ const TodoApp = () => {
     if (!isUserLoggedIn) {
       navigate("/login");
     }
+    console.log(isUserLoggedIn);
   }, [isUserLoggedIn]);
 
   const handleEdit = (id) => {
