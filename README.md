@@ -3,6 +3,7 @@
 In this App I used: [React+Vite](https://vitejs.dev/guide/) ,**HTML+CSS** .
 This one was made with ***Redux*** ,which is managing ***States*** and work as database.
 I also used ***React Icons*** and ***Router Provider***, and some base hooks like a ***UseState***.
+To run this App [NodeJs](https://nodejs.org/en/download/current) is required to be installed.
 
 
 
@@ -16,7 +17,7 @@ I also used ***React Icons*** and ***Router Provider***, and some base hooks lik
 ### Description:
 
 You can register and then login, all new users will be saved in store which is controlble with ***Redux***.
-At main page you see all "*Todos*" ,all **CRUD** funcs is availble here, you can see user page also.
+At main page you see all ***Todos*** ,all **CRUD** funcs is availble here, you can see user page also.
 
 
 
